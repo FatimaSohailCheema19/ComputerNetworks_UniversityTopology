@@ -50,3 +50,7 @@ This project allows you to:
    Router(config-if)# exit
    Router(config)# ip route 192.168.2.0 255.255.255.0 192.168.1.2
    Router# ping 192.168.2.1
+## Author
+Fatima Sohail BS Data Science
+
+⭐ This project is developed as part of a Data Structures & Algorithms course.
