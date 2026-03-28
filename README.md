@@ -53,4 +53,4 @@ This project allows you to:
 ## Author
 Fatima Sohail BS Data Science
 
-⭐ This project is developed as part of a Data Structures & Algorithms course.
+⭐ This project is developed as part of a Computer Network course.
