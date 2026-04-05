@@ -21,8 +21,6 @@ The project demonstrates:
 - Routing using static routes
 - Device-to-device communication testing using `ping`
 
-# PASTE HERE THE SCREENSHOT OF TOPOLOGY 
-
 ---
 
 ## Functionality
